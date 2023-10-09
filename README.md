@@ -3,9 +3,9 @@
 - 🔭 Front-End Developer
 - 
 - 🌱 I'm currently learning:
-- • Javascript | Node.JS | React
-- • HTML | CSS | Bootstrap
-- • GIT | REST API
+- • Javascript | Node.JS | React Native
+- • HTML | CSS 
+- • GIT | Firebase
 - • Microsoft Azure
 - 
 - 🤖 Contact me by e-mail: raul.primo.ti@gmail.com
