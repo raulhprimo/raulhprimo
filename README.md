@@ -41,6 +41,7 @@
 
 ### 📊 Stats
 
+![Rau'l Primo Github stats](https://github-readme-stats.vercel.app/api?username=raulhprimo&show_icons=true&theme=midnight-purple)
 
 
 
